@@ -21,9 +21,8 @@ Data source :
 Déterminer selon des caractéristiques précises, les potentiels vainqueurs, les outsiders, favoris pour la Coupe du Monde de Football 2022.
 
 ### Compétences évaluées
-Construire et lire un dendogramme
-Tester l’adéquation à une loi par un test statistique
-Interpréter une Analyse en Composantes Principales (ACP)
+- Rédiger un rapport d'analyse statistique
+- Communiquer ses résultats à l’aide de visualisations
 
 ### Prérequis techniques
 Si vous n'avez jamais installé Python, alors autant installer directement la distribution Anaconda. Anaconda est donc une distribution Python, faite pour la Data Science.
