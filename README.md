@@ -47,4 +47,3 @@ pip install matplotlib
 pip install numpy
 pip install scipy
 ```
-![image](https://user-images.githubusercontent.com/125965437/222732447-30bae453-6351-417e-bd13-7e03a0007000.png)
