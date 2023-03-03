@@ -7,7 +7,15 @@
 Pour ce projet, les données ont été manipulées en Python sur support Jupyter Notebook. 
 
 ### Les données
-Data source [FAO](http://www.fao.org/faostat/fr/#data)
+Data source :
+- Qualifiés pour la Coupe du Monde 2022 de football :[FIFA](https://www.fifa.com/fifaplus/fr/match-centre/competition/520?tab=competitionStandings&prev=competition)
+- GDP Per Capita : [Dataworldbank](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD)
+- Classement FIFA : [TransferMarkt](https://www.transfermarkt.fr/wettbewerbe/fifa)
+- Valeur marchande : [TransferMarkt](https://www.transfermarkt.fr/wettbewerbe/fifa)
+- Age moyen par équipe : [TransferMarkt](https://www.transfermarkt.fr/brasilien/startseite/verein/3439)
+- Population mondiale : [Banque Mondiale](https://donnees.banquemondiale.org/indicator/SP.POP.TOTL)
+- Classement FIFA entre 1992 et 2021 : [Kaggle](https://www.kaggle.com/datasets/cashncarry/fifaworldranking)
+- Nombre de joueurs vainqueurs de la Ligue des Champions (Compétition de Club) : [TransferMarkt](https://www.transfermarkt.fr/brasilien/startseite/verein/3439)
 
 ### Objectif 
 Déterminer selon des caractéristiques précises, les potentiels vainqueurs, les outsiders, favoris pour la Coupe du Monde de Football 2022.
