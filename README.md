@@ -1,5 +1,4 @@
 # Football-WC2022-Analysis
-## Projet Libre
 (Analyse des forces en présence pour la Coupe du Monde de Football 2022 au Qatar)
 ![image](https://user-images.githubusercontent.com/125965437/222732447-30bae453-6351-417e-bd13-7e03a0007000.png)
 
